@@ -14,7 +14,7 @@
  *     fichier_sortie   Fichier de rapport (défaut: stdout)
  *     seuil_courant    Seuil d'alerte en ampères (défaut: 5.0)
  * 
- * @author À compléter
+ * @author Chloe Hagege, Reem Youssef
  * @date À compléter
  * 
  * GRO221 - Introduction à la programmation système
